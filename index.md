@@ -18,6 +18,7 @@ Para os alunos verem um exemplo dessa atividade, resolvi criar o meu blog també
 ## Posts
 
 [1. Computação Visual?](01_cv.md) (12/08/2026)
+
 [2. Computação Gráfica, Compugrafia ou Compugráfica?](02_compugrafia.md) (18/08/2026)
 
 ## Blogs dos alunos

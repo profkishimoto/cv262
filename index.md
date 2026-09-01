@@ -21,6 +21,8 @@ Para os alunos verem um exemplo dessa atividade, resolvi criar o meu blog també
 
 [2. Computação Gráfica, Compugrafia ou Compugráfica?](02_compugrafia.md) (18/08/2026)
 
+[3. Transformação de intensidade: Negativo de uma imagem](03_negativo.md) (31/08/2026)
+
 ## Blogs dos alunos
 
 - TODO

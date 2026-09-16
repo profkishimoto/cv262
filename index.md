@@ -23,6 +23,8 @@ Para os alunos verem um exemplo dessa atividade, resolvi criar o meu blog també
 
 [3. Transformação de intensidade: Negativo de uma imagem](03_negativo.md) (31/08/2026)
 
+[4. Código-fonte do Adobe Photoshop 1.0.1](04_photoshop101.md) (16/09/2026)
+
 ## Blogs dos alunos
 
 - TODO
